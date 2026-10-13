@@ -1,0 +1,98 @@
+{
+  "source": "https://github.com/chaldea-center/chaldea-data",
+  "commit": "979373ea4b49914bc8bb7e4ebfbf855579e2ed08",
+  "upstream_version": "2026-10-12T21:22:34Z",
+  "snapshot_scope": "Servants, skills, functions, noble phantasms, constants and translation mappings; not the complete Chaldea application or all quest/event tables.",
+  "files": [
+    {
+      "path": "data/chaldea/baseSkills.json",
+      "bytes": 7321103,
+      "sha256": "945c49d48cd3283d16a886b973f7af4b9f60fa1866f734bfbdf8eb5dfded55bf",
+      "records": 8673
+    },
+    {
+      "path": "data/chaldea/baseFunctions.json",
+      "bytes": 2053123,
+      "sha256": "c733e2a68f0d2af3a02b36d3b32b406d1eee5f6e04b9269a1fd5a50368ab6561",
+      "records": 3248
+    },
+    {
+      "path": "data/chaldea/baseTds.json",
+      "bytes": 2647750,
+      "sha256": "9fb1b6451afd143e7ddf4b5ced958b6987e031d468fefcb36916734354edb275",
+      "records": 980
+    },
+    {
+      "path": "data/chaldea/constData.json",
+      "bytes": 264703,
+      "sha256": "d0a2979af477d69df179076088d4913c6d12e68d6488554b41a87c648580e51e",
+      "records": 30
+    },
+    {
+      "path": "data/chaldea/mappingPatch.json",
+      "bytes": 565683,
+      "sha256": "b0ef854c03c10c678fd67fd647ea698a092e76aab7035afa9f5e13eeabad1e09",
+      "records": 37
+    },
+    {
+      "path": "data/chaldea/addData.json",
+      "bytes": 265,
+      "sha256": "b499968a2d6a24521c021c45204a4d77f39d5ab1369bb52a271b422bdf3d482a",
+      "records": 7
+    },
+    {
+      "path": "data/chaldea/version.json",
+      "bytes": 17636,
+      "sha256": "b615c168211b843a762f39553c1c036ddfabcef715b5fa24023f1c25395ef207",
+      "records": 4
+    },
+    {
+      "path": "data/chaldea/servants.1.json",
+      "bytes": 2144544,
+      "sha256": "4b3a8145437b6168d95362eaf3bf42124b69147c3a8c6bbe84aab25f611a5178",
+      "records": 100
+    },
+    {
+      "path": "data/chaldea/servants.2.json",
+      "bytes": 2040332,
+      "sha256": "4dc61b5549e55d4f40e3629fc9d679c73320b4348d226bd64fc8554ce1ce9b4b",
+      "records": 100
+    },
+    {
+      "path": "data/chaldea/servants.3.json",
+      "bytes": 2139163,
+      "sha256": "fc0ffe50844db73cffb3df5ec13f3e097829c85ca0c7777e16ecd3771dfa9be0",
+      "records": 100
+    },
+    {
+      "path": "data/chaldea/servants.4.json",
+      "bytes": 1963249,
+      "sha256": "dd1e6c1de9e84a76efd4e9ddae59138756e1ab0234068106e5d69236823e814a",
+      "records": 100
+    },
+    {
+      "path": "data/chaldea/servants.5.json",
+      "bytes": 1476242,
+      "sha256": "ba79ad8017a46253ad261143697d96cc833592226b40a9283780ac05dd5be3a9",
+      "records": 86
+    },
+    {
+      "path": "data/chaldea/mappingData.1.json",
+      "bytes": 4274435,
+      "sha256": "4a9b3db6963a8479a2bf30c53dd53d89cf887f500d62b2a79df3701608c31672",
+      "records": 2
+    },
+    {
+      "path": "data/chaldea/mappingData.2.json",
+      "bytes": 2067942,
+      "sha256": "c91361f50d5af3f07f72228d6d1d65bdbbeb1fd358d920c9b83c30a0a695cbc3",
+      "records": 2
+    },
+    {
+      "path": "data/chaldea/mappingData.3.json",
+      "bytes": 3877311,
+      "sha256": "57aea862f57b5db1518c2dc29b89373de1f3ec132dafc25f0ed6db1bfbc6a28f",
+      "records": 38
+    }
+  ]
+}
